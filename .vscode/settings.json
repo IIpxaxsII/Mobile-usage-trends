@@ -1,0 +1,16 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Paras\\anaconda3\\python.exe",
+  "python.analysis.extraPaths": [
+    "C:\\Users\\Paras\\anaconda3\\Lib\\site-packages"
+  ],
+  "jupyter.kernels.trusted": ["base"],
+  "notebook.kernelProviderAssociations": [
+    {
+      "viewType": "jupyter-notebook",
+      "kernelProvider": "ms-toolsai.jupyter"
+    }
+  ],
+  "cursorpyright.analysis.extraPaths": [
+    "C:\\Users\\Paras\\anaconda3\\Lib\\site-packages"
+  ]
+}
